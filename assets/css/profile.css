@@ -1,0 +1,48 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Timeless', sans-serif;
+}
+
+body{
+    background:	white;
+}
+
+.bg-common{
+    /*background:#ADD8E6 ;*/
+    background-color: #3f8995;
+}
+
+.aa{
+     padding: 10px 0 10px 30px;
+    transition: all .2s;
+    color: #e2ecee !important;
+}
+
+.aa:hover{
+     color: #fff!important; 
+}
+
+.card-left
+{
+    border: 0.02rem solid#7eb3bd;
+    border-radius: 5px;
+}
+
+a {
+  color: #7eb3bd;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+} 
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+}
+
